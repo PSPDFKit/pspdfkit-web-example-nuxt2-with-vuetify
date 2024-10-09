@@ -22,8 +22,8 @@ Follow these steps to set up and run the project locally:
 Clone the project repository to your local machine:
 
 ```bash
-    git clone https://github.com/your-username/pspdfkit-nuxtjs-with-vuetify.git
-    cd pspdfkit-nuxtjs-with-vuetify
+    git clone https://github.com/PSPDFKit/pspdfkit-web-example-nuxt2-with-vuetify.git
+    cd pspdfkit-web-example-nuxt2-with-vuetify
 ```
 
 ### 2. Install Dependencies
